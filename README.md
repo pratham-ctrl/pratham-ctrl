@@ -10,9 +10,16 @@ I'm an AI/ML Engineer and Python Developer who builds practical tools, automatio
 
 ## 🌱 About Me
 
-* AWS Certified Cloud Practitioner
 * Interested in AI/ML engineering, backend systems, and automation
 * I enjoy experimenting with models, building pipelines, and shipping small, useful tools
+
+---
+
+## 📜 Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)](https://www.credly.com/earner/earned/badge/362b4146-3378-4427-be6e-3e7f5489d8a7)
+
+[![IBM Certified](https://img.shields.io/badge/IBM-Certified-0066CC?style=for-the-badge\&logo=ibm\&logoColor=white)](https://www.credly.com/earner/earned/badge/5b4b7a6d-9679-4b50-9719-4bf19f7dcaca)
 
 ---
 
