@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Pratham%20Parikh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%26%20Python%20Developer&descAlignY=51&descAlign=62" alt="Pratham Parikh Banner" />
-</div>
-
 <h3 align="center">
     👋 Hi, I'm Pratham
 </h3>
