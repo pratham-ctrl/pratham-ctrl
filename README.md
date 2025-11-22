@@ -58,8 +58,7 @@ Open-source is my way to record progress, share what I learn, and collaborate wi
 ## 📬 Get in touch
 
 * GitHub: [pratham-ctrl](https://github.com/pratham-ctrl)
-* Email: (add your email here)
+* Email: (prathamparikh04@gmail.com)
 
 ---
 
-*This README uses a dark-style banner and clean, developer-focused layout.*
