@@ -1,49 +1,66 @@
+<p align="center">
+  <img src="/mnt/data/A_digital_vector_graphic_displays_a_circular_logo_.png" alt="banner" width="320" />
+</p>
+
 ## 👋 Hi, I'm Pratham
 
-I'm an AI/ML Engineer and Python Developer who enjoys building practical tools, automation scripts, and real-world machine learning applications. Most of the projects here were created to solve problems I personally encountered — shared openly in case they help others too.
+I'm an AI/ML Engineer and Python Developer who builds practical tools, automation scripts, and real-world machine learning applications. Most of these projects began as solutions to problems I faced — now shared openly in case they help others.
 
 ---
 
 ## 🌱 About Me
-- I like turning ideas into working projects  
-- I enjoy experimenting with ML models, data processing, and automation  
-- Currently exploring AI engineering, backend development, and open-source contributions  
-- Always learning, improving, and building something new  
+
+* AWS Certified Cloud Practitioner
+* Interested in AI/ML engineering, backend systems, and automation
+* I enjoy experimenting with models, building pipelines, and shipping small, useful tools
 
 ---
 
 ## 🧩 What I Build
-- AI/ML projects  
-- Fraud detection systems  
-- Credit card expense tools  
-- Automation utilities  
-- Recommendation engines  
-- Streamlit & Flutter apps  
-- Python-based scripts and analyzers  
+
+* AI/ML projects
+* Fraud detection systems
+* Credit card expense tools
+* Automation utilities and APK analysis scripts
+* Streamlit & Flutter apps
+
+---
+
+## 🛠 Tech Stack
+
+* **Languages:** Python, JavaScript, Java, Dart, HTML, CSS
+* **Frameworks & Tools:** FastAPI, Flask, Streamlit, Flutter, Git, ADB
+* **ML:** Scikit-Learn, Pandas, NumPy
+* **Databases/Auth:** Supabase, Firebase
+
+---
+
+## 📌 Quick Links & Badges
+
+![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square\&logo=amazon-aws\&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ctrl\&layout=compact)](https://github.com/pratham-ctrl)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-ctrl\&show_icons=true\&theme=dark)](https://github.com/pratham-ctrl)
 
 ---
 
 <details>
   <summary>🔽 Click to expand — My AI/ML Journey</summary>
 
-I began my journey by creating small ML models and tools to solve problems I faced daily — from transaction analysis to recommendation systems.  
-Over time, these experiments grew into complete projects involving Random Forests, KNN sentiment prediction, Apriori-based recommendations, and end-to-end analytical dashboards.
+I started by building small ML models and tools to solve everyday problems — from transaction analysis to recommendation systems. Over time, these grew into end-to-end projects involving Random Forests, KNN sentiment prediction, Apriori-based recommendations, and automation pipelines.
 
-Open-source has become a way for me to document my learning, stay consistent, and share my progress with others.
+Open-source is my way to record progress, share what I learn, and collaborate with others.
 
 </details>
 
 ---
 
-## 🛠 Tech Stack
+## 📬 Get in touch
 
-**Languages:** Python, JavaScript, Dart, HTML, CSS, C++    
-**Frameworks:** Flask, FastAPI, Streamlit, Flutter  
-**ML Tools:** Scikit-Learn, Pandas, NumPy, TF-IDF, BoW  
-**Databases:** Supabase, Firebase  
-**Other:** ADB Tools, Automation, Git  
+* GitHub: [pratham-ctrl](https://github.com/pratham-ctrl)
+* Email: (add your email here)
 
 ---
 
-## 📬 Connect  
-Open to discussions, collaborations, and new ideas.
+*This README uses a dark-style banner and clean, developer-focused layout.*
