@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/mnt/data/A_digital_vector_graphic_displays_a_circular_logo_.png" alt="banner" width="320" />
-</p>
-
 ## 👋 Hi, I'm Pratham
 
 I'm an AI/ML Engineer and Python Developer who builds practical tools, automation scripts, and real-world machine learning applications. Most of these projects began as solutions to problems I faced — now shared openly in case they help others.
@@ -43,8 +39,6 @@ I'm an AI/ML Engineer and Python Developer who builds practical tools, automatio
 ---
 
 ## 📌 Quick Links & Badges
-
-![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square\&logo=amazon-aws\&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ctrl\&layout=compact)](https://github.com/pratham-ctrl)
 
