@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I'm Pratham
 
-<!--
-**pratham-ctrl/pratham-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML Engineer and Python Developer who enjoys building practical tools, automation scripts, and real-world machine learning applications. Most of the projects here were created to solve problems I personally encountered — shared openly in case they help others too.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- I like turning ideas into working projects  
+- I enjoy experimenting with ML models, data processing, and automation  
+- Currently exploring AI engineering, backend development, and open-source contributions  
+- Always learning, improving, and building something new  
+
+---
+
+## 🧩 What I Build
+- AI/ML projects  
+- Fraud detection systems  
+- Credit card expense tools  
+- Automation utilities  
+- Recommendation engines  
+- Streamlit & Flutter apps  
+- Python-based scripts and analyzers  
+
+---
+
+<details>
+  <summary>🔽 Click to expand — My AI/ML Journey</summary>
+
+I began my journey by creating small ML models and tools to solve problems I faced daily — from transaction analysis to recommendation systems.  
+Over time, these experiments grew into complete projects involving Random Forests, KNN sentiment prediction, Apriori-based recommendations, and end-to-end analytical dashboards.
+
+Open-source has become a way for me to document my learning, stay consistent, and share my progress with others.
+
+</details>
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, JavaScript, Dart  
+**Frameworks:** Flask, FastAPI, Streamlit, Flutter  
+**ML Tools:** Scikit-Learn, Pandas, NumPy, TF-IDF, BoW  
+
