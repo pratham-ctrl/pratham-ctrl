@@ -40,18 +40,27 @@ Most of my projects began as solutions to actual problems I faced—now shared o
 
 ### 🧩 What I Build
 
-I specialize in **AI/ML projects**, **Automation utilities**, and **Analysis tools**.
+I build intelligent systems, experiment with machine learning, and automate boring tasks. Here is what I work on:
 
-#### 🏆 Featured Projects
+* 🤖 **AI/ML projects:** End-to-end pipelines and model integration.
+* 🛡️ **Fraud detection systems:** Real-time analysis and prediction.
+* 💳 **Credit card expense tools:** Finance tracking and management solutions.
+* 📱 **Automation utilities:** APK analysis scripts and ADB automation.
+* 🚀 **Apps:** Full-stack Streamlit & Flutter applications.
 
-- **[Universal-Analyzer](https://github.com/pratham-ctrl/Universal-Analyzer)**
-  <br>_A smart, Streamlit-based tool that analyzes both Android APK files and websites, generating clean and professional PDF reports for developers._
+<details>
+<summary><b>🔽 Click to expand — My AI/ML Journey</b></summary>
+<br>
+I started by building small ML models and tools to solve everyday problems — from transaction analysis to recommendation systems.
 
-- **[Fraud-Detection](https://github.com/pratham-ctrl/Fraud-Detection)**
-  <br>_Real-world credit card fraud detection system using machine learning techniques._
+Over time, these grew into end-to-end projects involving:
+* Random Forests
+* KNN sentiment prediction
+* Apriori-based recommendations
+* Automation pipelines
 
-- **[AI-Humanizer](https://github.com/pratham-ctrl/AI-Humanizer)**
-  <br>_Tools designed to bridge the gap between AI-generated content and human-like interaction._
+Open-source is my way to record progress, share what I learn, and collaborate with others.
+</details>
 
 ---
 
