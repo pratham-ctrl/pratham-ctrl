@@ -42,8 +42,6 @@ I'm an AI/ML Engineer and Python Developer who builds practical tools, automatio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ctrl\&layout=compact)](https://github.com/pratham-ctrl)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-ctrl\&show_icons=true\&theme=dark)](https://github.com/pratham-ctrl)
-
 ---
 
 <details>
