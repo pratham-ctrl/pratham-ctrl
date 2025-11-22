@@ -40,4 +40,10 @@ Open-source has become a way for me to document my learning, stay consistent, an
 **Languages:** Python, JavaScript, Dart  
 **Frameworks:** Flask, FastAPI, Streamlit, Flutter  
 **ML Tools:** Scikit-Learn, Pandas, NumPy, TF-IDF, BoW  
+**Databases:** Supabase, Firebase  
+**Other:** ADB Tools, Automation, Git  
 
+---
+
+## 📬 Connect  
+Open to discussions, collaborations, and new ideas.
