@@ -37,7 +37,7 @@ Open-source has become a way for me to document my learning, stay consistent, an
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, JavaScript, Dart, HTML, CSS, Java, C++ 
+**Languages:** Python, JavaScript, Dart, HTML, CSS, Java
 **Frameworks:** Flask, FastAPI, Streamlit, Flutter  
 **ML Tools:** Scikit-Learn, Pandas, NumPy, TF-IDF, BoW  
 **Databases:** Supabase, Firebase  
