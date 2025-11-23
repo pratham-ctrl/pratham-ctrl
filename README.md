@@ -91,7 +91,6 @@ Open to collaborations on AI/ML engineering and backend automation projects.
 
 * **GitHub:** [@pratham-ctrl](https://github.com/pratham-ctrl)
 * **Email:** [prathamparikh04@gmail.com](mailto:prathamparikh04@gmail.com)
-* **LinkedIn:** [linkedin.com/in/pratham-parikh1](https://www.linkedin.com/in/pratham-parikh1/)
 
 <div align="center">
   <small><i>Built with ❤️ by Pratham Parikh</i></small>
